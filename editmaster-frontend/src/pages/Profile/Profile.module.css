@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Align items horizontally at the center */
+    justify-content: center; /* Align items vertically at the center */
+  }
+
+.InputTags{
+    width: 25%;
+    height: 25px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.Reset{
+    width: 26%;
+    height: 30px;
+    margin-top: 10px;
+    background-color: #33b249;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 5px;
+}

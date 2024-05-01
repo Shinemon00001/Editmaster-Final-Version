@@ -1,0 +1,37 @@
+
+.registerContainer {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.inputContainer {
+    margin-bottom: 10px;
+}
+
+.inputContainer input {
+    width: calc(100% - 44px); /* Adjusted input width */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.registerButton {
+    width: calc(100% - 22px); /* Adjusted button width */
+    padding: 10px;
+    border: none;
+    background-color: #33b249;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    align-self: center;
+}
+
+.registerButton:hover {
+    background-color: #5dbea3;
+}
+
+.registerlabel {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+}

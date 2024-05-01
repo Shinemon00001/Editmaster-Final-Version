@@ -1,0 +1,35 @@
+/* AdminPanel.css */
+
+.adminPanel {
+    text-align: center;
+}
+
+.adminPanel table {
+    border-collapse: collapse;
+    width: 80%; /* Adjust as needed */
+    margin: 0 auto;
+}
+
+.adminPanel th,
+.adminPanel td {
+    border: 1px solid #ddd; /* Border lines */
+    padding: 8px;
+}
+
+.adminPanel th {
+    background-color: #f2f2f2; /* Header background color */
+}
+
+.adminButton {
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color:  #33b249;
+    color: white;
+    width: 150px;
+}
+
+.adminButton:hover{
+    background-color: #5dbea3;
+}

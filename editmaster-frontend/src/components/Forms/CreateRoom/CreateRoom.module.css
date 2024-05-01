@@ -1,0 +1,13 @@
+.Inputtags {
+    width: 70%;
+    padding: 3px;
+    margin-right: 1px;
+    margin-bottom: 5px;
+  }
+  
+  .submitbutton {
+    width: 150px;
+    margin-top: 10px;
+    padding: 3px; /* Adjust padding as needed */
+  }
+  

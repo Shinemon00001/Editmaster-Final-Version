@@ -1,0 +1,39 @@
+.centeredH2 {
+    text-align: center;
+}
+
+.centeredBacklink {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.adminForm {
+    width: 300px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.adminForm input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box; /* Ensure padding and border are included in the width */
+}
+
+.adminForm button {
+    width: 100%; /* Set button width to 100% */
+    padding: 10px;
+    background-color: #33b249;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.adminForm button:hover {
+    background-color: #5dbea3;
+}
+
